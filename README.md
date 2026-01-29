@@ -9,11 +9,11 @@
 ## 📺 최종 결과물 미리보기
 
 <div align="center">
-  <a href="https://github.com/freelife1191/remotion-skills-tutorial/blob/main/assets/StockReport-0129.mp4">
+  <a href="./assets/StockReport-0129.mp4">
     <img src="https://img.shields.io/badge/▶%20Watch%20Video-Stock%20Report-blue?style=for-the-badge" alt="Watch Video">
   </a>
   <br>
-  <a href="https://github.com/freelife1191/remotion-skills-tutorial/blob/main/assets/StockReport-0129.mp4">영상이 보이지 않으면 여기를 클릭하여 확인하세요</a>
+  <a href="./assets/StockReport-0129.mp4">영상이 보이지 않으면 여기를 클릭하여 확인하세요</a>
   <p><em>AI 에이전트가 생성한 주가 분석 리포트 영상</em></p>
 </div>
 
