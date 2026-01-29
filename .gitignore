@@ -57,7 +57,7 @@ __pycache__/
 *.py[cod]
 
 # Large media files (optional, but good practice for video projects)
-*.mp4
+#*.mp4
 *.mov
 *.wav
 *.mp3
