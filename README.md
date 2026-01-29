@@ -9,7 +9,7 @@
 ## 📺 최종 결과물 미리보기
 
 <div align="center">
-  <video src="./assets/StockReport-0129.mp4" width="320" controls muted autoplay loop></video>
+  <video src="https://github.com/freelife1191/remotion-skills-tutorial/raw/main/assets/StockReport-0129.mp4" width="100%" controls></video>
   <p><em>AI 에이전트가 생성한 주가 분석 리포트 영상</em></p>
 </div>
 
